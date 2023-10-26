@@ -34,7 +34,7 @@ I tried to create this project as the perspective of a business analyst and all 
 
 
 
-For Making This Projest Possible ,I Used Some Excel features Like:
+For Making This Project Possible ,I Used Some Excel features Like:
 1) Tables
 2) Formulas
 3) Pivot Tables & Power Pivot measures
